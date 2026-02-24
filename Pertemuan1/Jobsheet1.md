@@ -126,7 +126,7 @@ Pilihan OS bergantung pada use case spesifik, dengan analisis berdasarkan kompat
 
 Unduh file ISO Ubuntu Server 22.04 LTS dari website resmi Ubuntu.
 
-![Download Ubuntu](Foto/ubuntu.png)
+![Download Ubuntu](Foto/Ubuntu.png)
 
 📌 *Hasil download file ISO Ubuntu Server*
 
