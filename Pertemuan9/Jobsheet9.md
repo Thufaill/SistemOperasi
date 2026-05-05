@@ -936,7 +936,7 @@ Disk Usage:
 [OK] /dev/shm terpakai 0%
 [OK] /run/lock terpakai 1%
 [OK] /run/user/1000 terpakai 1%
-vier@UBUNTU:~/praktikum-os/week09/scripts$ 
+vier@UBUNTU:~/praktikum-os/week09/scripts$  
 ```
 
 *Jobsheet 9 - Sistem Operasi*
