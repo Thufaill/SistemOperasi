@@ -938,5 +938,5 @@ Disk Usage:
 [OK] /run/user/1000 terpakai 1%
 vier@UBUNTU:~/praktikum-os/week09/scripts$  
 ```
-
+---
 *Jobsheet 9 - Sistem Operasi*
