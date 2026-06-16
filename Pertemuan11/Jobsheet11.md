@@ -91,7 +91,7 @@ drwxrwsr-x 2 vier vier 4096 May  6 10:55 shared-dir
 ```
 perintah chmod 640 secret.txt, mengubah permission file yang awalnya hanya user yang dapat membaca dan menulis isi file(-rw-------), menjadi user membaca dan menulis isi file, dan group dapat membaca (-rw-r-----)
 
-
+```
 Praktikum 9.2 — ACL
 
 Praktikum 9.3A — Membuat dan Mengelola User
